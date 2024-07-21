@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+}
+.header{
+    position:sticky;
+    top: 0px;
+    z-index: 1000;
+    background-color: white;
+}
+.headerLocation{
+    display: flex;
+    justify-content: center;
+    padding:9px 0;
+    height:50px;
+    margin-right:1.2%;
+}
+.locationButton{
+    height:32px;
+    width:99px;
+    margin-left:23px;
+    color:white;
+    background-color: black;
+    border-radius: 10rem;
+    font-size: small;
+}
+.color{
+    color: #e4002b;
+}
+.headerWrapper{
+    display: flex;
+    justify-content: space-between; 
+}
+.navitems-left{
+    display: flex;
+}
+.navitems-right{
+    display: flex;
+}
+.auth-links ul{
+    display: flex;
+    list-style-type: none;
+}
+.auth-links ul li{
+    margin:0 8px;
+}
+.auth-links ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+}
+
+.order{
+    display: flex;
+}
+.order a{
+    text-decoration: none;
+    color: black; 
+}
+.headerBottom{
+    background-color: #202124;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    height:68px;
+}
+.headBottomTxt{
+    font-weight: bold;
+    margin: 0 0 0 20px;
+}
+.hButtomButton{
+    background-color: #e4002b;
+    height:44px;
+    width:165px;
+    border-radius: 1.4rem;
+    color:white;
+    text-align: center;
+    margin-left: 20px;
+}

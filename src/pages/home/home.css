@@ -1,0 +1,30 @@
+.heading{
+    position: relative;
+    margin:20px 0;
+    font-weight: bold;
+  }
+  
+  .heading::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left:25%;
+    transform: translateY(-50%);
+    width: 975px;
+    height: .2px;
+    background-color: black;
+  }
+  .browsing_components{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .menu_img a{
+    text-decoration: none;
+    color: black;
+  }
+  .all_menu{
+    margin:20px 0;
+    width: 250px;
+    height: 300px;
+    z-index: 1;
+}

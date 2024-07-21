@@ -1,0 +1,47 @@
+.slider-container {
+    width: 100%;
+    margin: auto;
+    padding: 0 40px 40px 40px;
+    background-color: #202124;
+    color: white;
+  }
+  
+  .slick-prev:before, .slick-next:before {
+    color: white;
+  }
+  .bannerTop{
+    background-color: #202124;
+  }
+  .slide {
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .slide img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .slide p {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(23, 22, 22);
+  }
+  .slideBottom{
+    background-color: white;
+    height:100px;
+  }
+  .card_link{
+    color: #202124;
+    margin-right: 30px;
+  }
+  .card_btn{
+    background-color: white;
+    color:#202124;
+    border:2px solid #202124;
+    border-radius: 20px;
+  }
+  .card_btn:hover{
+    background-color: #202124;
+  }
