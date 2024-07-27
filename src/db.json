@@ -1,0 +1,1236 @@
+{
+    "menu": {
+        "newChickenRolls": [
+            {
+                "id":101,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K973.jpg?ver=49.63",
+                "title": "Thai Spicy chicken roll",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹109.00",
+                "description": "Fresh burst of Thai flavours and sauces in a flaky paratha, chicken strips and vegetables"
+            },
+            {
+                "id":102,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002324.jpg?ver=49.63",
+                "title": "Classic Chicken Roll & Pepsi Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 1",
+                "price": "₹176.19",
+                "description": "Our new Classic Chicken Roll served with Pepsi 475ml"
+            },
+            {
+                "id": 103,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K974.jpg?ver=49.63",
+                "title": "Korean Tangy Chicken Roll",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹109.00",
+                "description": "Delicious new roll featuring tangy Korean kimchi, vegetables and crunchy chicken strips"
+            },
+            {
+                "id": 104,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002325.jpg?ver=49.63",
+                "title": "Double Chicken Roll & Pepsi Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 1",
+                "price": "₹225.71",
+                "description": "Our new Double Chicken Roll served with Pepsi 475ml"
+            },
+            {
+                "id": 105,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K975.jpg?ver=49.63",
+                "title": "Indian Tandoori Chicken Roll",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹109.00",
+                "description": "Flavorful roll made with flaky lachha paratha, perfectly fried chicken strips in rich and creamy tandoori sauce"
+            },
+            {
+                "id": 106,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002070.jpg?ver=49.63",
+                "title": "Classic Chicken Roll Meal for 1",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 1",
+                "price": "₹339.05",
+                "description": "Deal combo of 1 Classic Chicken Roll, Large Fries, 2 Dips & Pepsi 475ml"
+            },
+            {
+                "id": 107,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K976.jpg?ver=49.63",
+                "title": "Indian Spicy Veg Roll",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹109.00",
+                "description": "Veg special spicy indian sauce and veggie roll"
+            },
+            {
+                "id": 108,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002069.jpg?ver=49.63",
+                "title": "Double Chicken Roll Meal for 1",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 1",
+                "price": "₹379.05",
+                "description": "Deal combo of 1 Double Chicken Roll, Large Fries, 2 Dips & Pepsi 475ml"
+            },
+            {
+                "id": 109,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K617.jpg?ver=49.63",
+                "title": "Classic Chicken Roll",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹119.05",
+                "description": "KFC Twist on Classic Chicken Roll-Layerful paratha with Strips"
+            },
+            {
+                "id": 110,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K657.jpg?ver=49.63",
+                "title": "Double Chicken Roll",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹168.57",
+                "description": "KFC Twist on Chicken Roll, 2x fillings! Layered paratha+Strips & sauce topped with onions"
+            },
+            {
+                "id": 111,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002068.jpg?ver=49.63",
+                "title": "Classic Chicken Roll Meal for 2",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2",
+                "price": "₹479.05",
+                "description": "Deal combo of 2 Classic Chicken Rolls, Large Fries, 2 Dips & Pepsi 475ml"
+            },
+            {
+                "id": 112,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002067.jpg?ver=49.63",
+                "title": "Double Chicken Roll Meal for 2",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2",
+                "price": "₹548.57",
+                "description": "Deal combo of 2 Double Chicken Rolls, Large Fries, 2 Dips & Pepsi 475ml"
+            },
+            {
+                "id": 113,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002315.jpg?ver=49.63",
+                "title": "2 Classic Chicken Roll",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2",
+                "price": "₹228.57",
+                "description": "Double the fun with 2 Classic Chicken Rolls"
+            },
+            {
+                "id": 114,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002316.jpg?ver=49.63",
+                "title": "2 Double Chicken Roll",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2",
+                "price": "₹328.57",
+                "description": "Double the fun with 2 Double Chicken Rolls"
+            },
+            {
+                "id": 115,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002686.jpg?ver=49.63",
+                "title": "Korean Chicken Roll & Popcorn Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹289.00",
+                "description": "Get 18% off on Korean Chicken Roll, Medium Popcorn & Pepsi"
+            },
+            {
+                "id": 116,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002681.jpg?ver=49.63",
+                "title": "Korean Chicken Roll & Zinger Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹389.00",
+                "description": "Get 18% off on Korean Chicken Roll, Classic Zinger, Med. Fries & Pepsi"
+            },
+            {
+                "id": 117,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002685.jpg?ver=49.63",
+                "title": "Thai Chicken Roll & Zinger Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹389.00",
+                "description": "Get 18% off on Thai Chicken Roll, Classic Zinger, Med. Fries & Pepsi"
+            },
+            {
+                "id": 118,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002682.jpg?ver=49.63",
+                "title": "Thai Chicken Roll & Popcorn Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹289.00",
+                "description": "Get 18% off on Thai Chicken Roll, Med. Popcorn & Pepsi"
+            },
+            {
+                "id": 119,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002684.jpg?ver=49.63",
+                "title": "Tandoori Chicken Roll & Zinger Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹389.00",
+                "description": "Get 18% off on Tandoori Chicken Roll, Classic Zinger, Med. Fries & Pepsi"
+            },
+            {
+                "id": 120,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002680.jpg?ver=49.63",
+                "title": "American Chicken Roll & Popcorn Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹289.00",
+                "description": "Get 14% off on American Nashville Chicken Roll, Med. Popcorn & Pepsi"
+            },
+            {
+                "id": 121,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002683.jpg?ver=49.63",
+                "title": "Thai & Korean Chicken Roll Lrg. Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹529.00",
+                "description": "Get 20% off on 1 Thai & 1 Korean Chicken Roll, Lrg. Popcorn, Lrg. Fries & Pepsi"
+            }
+        ],
+        "valueLunchSpecials": [
+            {
+                "id": 201, 
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002503.jpg?ver=49.63",
+                "title": "2 Chicken Longer Burgers Lunch Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹299.05",
+                "description": "Save 40% on new 2 Chicken Longer Burgers, 4 Chicken Strips and a Pepsi PET 475ml"
+            },
+            {
+                "id": 202, 
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002504.jpg?ver=49.63",
+                "title": "2 Chicken Rolls Lunch Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹299.05",
+                "description": "Save 44% on new 2 Single Chicken Rolls, 4 Chicken Strips and a 1 Pepsi PET 475ml"
+            },
+            {
+                "id": 203, 
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002505.jpg?ver=49.63",
+                "title": "2 Rice Bowlz Lunch Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving":"Serves 2",
+                "price": "₹299.05",
+                "description": "Save 31% on new 2 Rizo Rice Bowlz, 4 Chicken Strips and a 1 Pepsi PET 475ml"
+            },
+            {
+                "id": 204, 
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002508.jpg?ver=49.63",
+                "title": "Chicken Roll & Rice Lunch Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹299.05",
+                "description": "Save 46% on new 1 Rizo Rice Bowlz, 1 Single Chicken Roll, 4 Strips and a Pepsi PET 475ml"
+            },
+            {
+                "id": 205, 
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002507.jpg?ver=49.63",
+                "title": "Chicken Longer & Rice Lunch Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹299.05",
+                "description": "Save 44% on 1 Chicken Longer Burger, 1 Rizo Rice Bowlz, 4 Strips and a Pepsi PET 475ml"
+            },
+            {
+                "id": 206, 
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002506.jpg?ver=49.63",
+                "title": "Chicken Longer & Roll Lunch Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹299.05",
+                "description": "Save 42% on new 1 chicken longer, 1 chicken roll , 4 strips and a Pepsi PET"
+            },
+            {
+                "id": 207, 
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002509.jpg?ver=49.63",
+                "title":"2 Chicken Longer Deluxe Lunch Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹399.05",
+                "description": "Save 34% on new 2 Chicken longer, 2 Strips, 2 HC and a Pepsi PET"
+            },
+            {
+                "id": 208, 
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002510.jpg?ver=49.63",
+                "title": "2 Chicken Roll Deluxe Lunch Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹399.05",
+                "description": "Save 38% on new 2 Single chicken roll, 2 Strips, 2 HC and a Pepsi PET"
+            },
+            {
+                "id": 209, 
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002511.jpg?ver=49.63",
+                "title": "2 Rice Bowlz Deluxe Lunch Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹399.05",
+                "description": "Save 42% on new 2 Rizo Rice Bowlz, 2 Chicken Strips, 2 HC and 1 Pepsi PET 475ml"
+            },
+            {
+                "id": 210, 
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002512.jpg?ver=49.63",
+                "title": "Chicken Longer & Roll Deluxe Lunch Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹399.05",
+                "description": "36% off on new 1 chicken longer, 1 chicken roll , 2 strips , 2 HC and a Pepsi PET"
+            },
+            {
+                "id": 211, 
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002513.jpg?ver=49.63",
+                "title": "Chicken Longer & Rice Deluxe Lunch Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹399.05",
+                "description": "38% off on new 1 chicken longer, 1 Rizo Rice Bowl , 2 strips , 2 HC and a Pepsi PET"
+            },
+            {
+                "id": 212, 
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002514.jpg?ver=49.63",
+                "title": "Chicken Roll & Rice Deluxe Lunch Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹399.05",
+                "description": "40% off on new 1 Rizo Rice Bowl , 1 Chicken roll, 2 strips , 2 HC and a Pepsi PET"
+            }
+        ],
+        "chickenBuckets": [
+            {
+                "id": 301,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002340.jpg?ver=49.63",
+                "title": "All in One Bucket",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "oldprice": "₹717.14",
+                "price": "₹548.57",
+                "description": "1 Leg, 1 Hot & Crispy, 2 Wings, 2 Strips, 1 Zinger Fillet, 3 Dips [20gm each] & 1 Pepsi 475 ml"
+            },
+            {
+                "id": 302,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00000892.jpg?ver=49.63",
+                "title": "Bucket for Two",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2-3",
+                "oldprice": "₹744.00",
+                "price": "₹599.05",
+                "description": "Flat Rs. 115 off on combo of 2pc Hot & Crispy, 2 pc Smoky Red Chicken & Large Popcorn" 
+            },
+            {
+                "id": 303,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002169.jpg?ver=49.63",
+                "title": "Stay Home Bucket",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 3",
+                "oldprice": "₹1055.24",
+                "price": "₹788.57",
+                "description": "Save 21% on 4 Hot & Crispy, 4 Wings, 6 Peri Strips & 2 dips (20gm each)"
+            },
+            {
+                "id": 304,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002155.jpg?ver=49.63",
+                "title": "Peri Peri 10 Leg pc & 4 Dips",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 3-4",
+                "oldprice": "₹1266.67",
+                "price": "₹949.00",
+                "description": "Leg before any wicket! Save 27% on 10 Peri Peri Leg Pieces & 4 Dips (20 gm each)"
+            },
+            {
+                "id": 305,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002156.jpg?ver=49.63",
+                "title": "Peri Peri 5 Leg Pc Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2",
+                "oldprice": "₹789.52",
+                "price": "₹649.00",
+                "description": "5 Spicy Peri Peri Leg Pieces, 2 Dips (20gm each), 1 Med Fries & 1 Pepsi 475ml"
+            },
+            {
+                "id": 306,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00000854.jpg?ver=49.63",
+                "title": "Big 12",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2-3",
+                "price": "₹748.57",
+                "description": "6pc Hot & Crispy Chicken,6 Wings & 2 Dips(20gm each)"
+            },
+            {
+                "id": 307,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00000638.jpg?ver=49.63",
+                "title": "Ultimate Savings Bucket",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2-3",
+                "oldprice": "₹1094.00",
+                "price": "₹699.05",
+                "description": "Savings of 32% on signature bucket of 4pc Hot & crispy chicken, 6 Pc Wings, 4 Chicken Peri Peri Boneless..."
+            },
+            {
+                "id": 308,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00000891.jpg?ver=49.63",
+                "title": "Big 8",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2-3",
+                "oldprice": "₹960.00",
+                "price": "₹684.76",
+                "description": "Save 29% on this variety bucket of 4pc Hot & Crispy chicken & 4pc Smoky Red chicken"
+            },
+            {
+                "id": 309,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K445.jpg?ver=49.63",
+                "title": "5pc Smoky Red Chicken",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2",
+                "price": "₹528.57",
+                "description": "Grab 5 pc Smoky Red Chicken - grilled to perfection"
+            },
+            {
+                "id": 310,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002162.jpg?ver=49.63",
+                "title": "Mingles Bucket Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2",
+                "oldprice": "₹569.84",
+                "price": "₹499.05",
+                "description": "Save Rs. 71 on 4 Wings,2 Peri Strips, Reg Popcorn, Med Fries & 1 Pepsi 475ml"
+            },
+            {
+                "id": 311,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K009.jpg?ver=49.63",
+                "title": "8 pc Hot & Crispy Chicken",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 3-4",
+                "price": "₹768.57",
+                "description": "8 pc Hot & Cripsy"
+            },
+            {
+                "id": 312,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K012.jpg?ver=49.63",
+                "title": "6 pc Hot & Crispy Chicken",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2-3",
+                "oldprice": "₹691.43",
+                "price": "₹628.57",
+                "description": "Flat 10% off on 6pc signature Hot & crispy chicken"
+            }
+        ],
+        "boxMeals": [
+            {
+                "id": 401,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002167.jpg?ver=49.63",
+                "title": "All Chicken Box",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹189.52",
+                "description": "A Box with your favorites! Get 1 pc Hot & Crispy, 2 Hot Wings & 1 Chicken Strip at a deal price"
+            },
+            {
+                "id": 402,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00001003.jpg?ver=49.63",
+                "title": "Zinger Tandoori Box",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹313.33",
+                "description": "A deal for Tandoori lovers : Get 1 Tandoori Zinger, 2 Hot Wings, 1 Veg Patty & 1 Pepsi 475ml" 
+            },
+            {
+                "id": 403,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00001004.jpg?ver=49.63",
+                "title": "Veg Zinger Box",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹313.33",
+                "description": "A deal for the Veg Zinger lovers : Get 1 Veg Zinger, 2 Veg Patties & 1 Pepsi 475ml"
+            }
+        ],
+        "valueSnackers": [
+            {
+                "id": 501,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K617.jpg?ver=49.63",
+                "title": "Single Chicken Roll",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹119.05",
+                "description": "KFC Twist on Classic Chicken Roll-Layerful paratha with Strips"
+            },
+            {
+                "id": 502,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002348.jpg?ver=49.63",
+                "title": "Chicken Longer Burger & 2 Strips Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹219.05",
+                "description": "Longgg burger with crunchy chicken, onions & a punchy sauce , served with 2 peri peri chicken strips"
+            },
+            {
+                "id": 503,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K136.jpg?ver=49.63",
+                "title": "Regular Popcorn",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹115.24",
+                "description": "Regular Pack of Chicken Popcorn seasoned with the Chili Lime flavours"
+            },
+            {
+                "id": 504,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K821.jpg?ver=49.63",
+                "title": "2 X Veg Roll",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹228.57",
+                "description": "Try the amazing Veg Roll [2 units of Veg Roll]"
+            },
+            {
+                "id": 505,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002301.jpg?ver=49.63",
+                "title": "2 Veg Longer Burger",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹198.10",
+                "description": "The really long burger with Veg Patty, Onion, Lettuce and two sauces"
+            },
+            {
+                "id": 506,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002423.jpg?ver=49.63",
+                "title": "Veg Roll Meal",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "serving":"Serves 1-2",
+                "price": "₹399.05",
+                "description": "Deal meal of 2 Veg Rolls, Large Fries and a Pepsi PET 475ml"
+            },
+            {
+                "id": 507,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K701.jpg?ver=49.63",
+                "title": "Chocolate Lava Cake",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹108.57",
+                "description": "Chocolate Goodness! Soft chocolate cake with lava oozing center"
+            }
+        ],
+        "internationalBurgerFest": [
+            {
+                "id": 601,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K815.jpg?ver=49.63",
+                "title": "Caribbean Spicy Zinger Burger",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹219.05",
+                "description": "Relish the Caribbean spicy zinger"
+            },
+            {
+                "id": 602,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002413.jpg?ver=49.63",
+                "title": "Caribbean Spicy Zinger Burger & Chicken Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹379.05",
+                "description": "New Caribbean Spicy Zinger Burger with 1 Pc Hot & Crispy and Pepsi PET 475ml at a deal price"
+            },
+            {
+                "id": 603,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002412.jpg?ver=49.63",
+                "title": "Caribbean Spicy Zinger Burger & Popcorn Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹439.05",
+                "description": "Caribbean Spicy Zinger Burger with Medium Popcorn and Pepsi PET 475ml at a deal price"
+            },
+            {
+                "id": 604,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K696.jpg?ver=49.63",
+                "title": "Mexican Zinger Pro Burger",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹239.05",
+                "description": "Premium burger with crunchy chicken, Mexican Habanero sauce, cheese, tomato & onion"
+            },
+            {
+                "id": 605,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002416.jpg?ver=49.63",
+                "title": "Mexican Zinger Pro Burger & Chicken Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹399.05",
+                "description": "New Zinger Pro burger with 1 Hot & Crispy chicken & Pepsi 475ml at a deal price"
+            },
+            {
+                "id": 606,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002415.jpg?ver=49.63",
+                "title": "Mexican Zinger Pro Burger & Popcorn Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹459.05",
+                "description": "New Zinger Pro burger with Medium Popcorn & Pepsi 475ml at a deal price"
+            },
+            {
+                "id": 607,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K439.jpg?ver=49.63",
+                "title": "American Classic Zinger",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹199.05",
+                "description": "Relish the KFC Classic Zinger-lettuce, mayo & Zinger patty filled between"
+            },
+            {
+                "id": 608,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K788.jpg?ver=49.63",
+                "title": "American Classic Zinger-with Cheese",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹224.05",
+                "description": "Signature burger with a crunchy chicken fillet, cheese slice, veggies & a delicious mayo sauce"
+            },
+            {
+                "id": 609,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K540.jpg?ver=49.63",
+                "title": "Indian Tandoori Zinger Burger",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹208.57",
+                "description": "Grab Tandoori Zinger Burger with Onions & Tangy sauce"
+            },
+            {
+                "id": 610,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K789.jpg?ver=49.63",
+                "title": "Indian Tandoori Zinger Burger -with Cheese",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹233.57",
+                "description": "Chicken zinger with aádelicious tandoori sauce & cheese slice"
+            },
+            {
+                "id": 611,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K912.jpg?ver=49.63",
+                "title": "Indian Paneer Zinger Burger",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹208.57",
+                "description": "Relish the Indian paneer zinger"
+            }
+        ],
+        "riceBowlz": [
+            {
+                "id": 701,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002487.jpg?ver=49.63",
+                "title": "Duo Popcorn Chicken Rice Bowlz",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving":"Serves 1",
+                "price": "₹428.57",
+                "description": "Save Rs. 30 on beloved Chicken Rice Bowlz served with signature Popcorn"
+            },
+            {
+                "id": 702,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K872.jpg?ver=49.63",
+                "title": "Classic Chicken Rice Bowlz",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving":"Serves 1",
+                "price": "₹229.52",
+                "description": "Rice Bowlz Attack!- Grab this aromatic Rice Bowlz rice with 1 piece Hot & Cripsy & gravy"
+            },
+            {
+                "id": 703,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K873.jpg?ver=49.63",
+                "title": "Smoky Red Chicken Rice Bowlz",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 1",
+                "price": "₹229.52",
+                "description": "Rice Bowlz Attack!- Grab this aromatic Rice Bowlz with smoky grilled chicken & gravy!"
+            },
+            {
+                "id": 704,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K870.jpg?ver=49.63",
+                "title": "Popcorn Chicken Rice Bowlz",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving":"Serves 1",
+                "price": "₹229.52",
+                "description": "Rice Bowlz Attack!- Grab this aromatic Rice Bowlz with chicken popcorn & gravy!"
+            },
+            {
+                "id": 705,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K869.jpg?ver=49.63",
+                "title": "Veg Rice Bowlz",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "serving":"Serves 1",
+                "price": "₹199.05",
+                "description": "Rice Bowlz Attack!- Grab this aromatic Rice Bowlz with gravy now!"
+            },
+            {
+                "id": 706,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002488.jpg?ver=49.63",
+                "title": "Popcorn Chicken Rice Bowlz & Wings Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving":"Serves 3-4",
+                "price": "₹699.05",
+                "description": "Deal Savings of Rs. 118 on 2 units of Chicken Popcorn Rice Bowlz and 8 Pc Hot Wings"
+            },
+            {
+                "id": 707,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K867.jpg?ver=49.63",
+                "title": "Plain Rice Bowlz",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹139.05",
+                "description": "Aromatic Plain Rice- perfect go along to make a wholesome meal!"
+            },
+            {
+                "id": 708,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002489.jpg?ver=49.63",
+                "title": "Popcorn Rice Box",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹328.57",
+                "description": "PC Rice Box- 1 Popcorn Chicken Rice Bowlz + , 2 HW + 1 Pepsi PET 475 ml"
+            },
+            {
+                "id": 709,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002490.jpg?ver=49.63",
+                "title": "Veg Rice Box",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹279.05",
+                "description": "Veg Rice Box-á 1 Veg Rice Bowlz +  Veg Patty + 1 Pepsi PET 475ml"
+            }
+        ],
+        "burgers": [
+            {
+                "id": 801,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K696.jpg?ver=49.63",
+                "title": "Mexican Zinger Pro Burger",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹239.05",
+                "description": "Premium burger with crunchy chicken, Mexican Habanero sauce, cheese, tomato & onion"
+            },
+            {
+                "id": 802,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K912.jpg?ver=49.63",
+                "title": "Indian Paneer Zinger Burger",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹208.57",
+                "description": "Relish the Indian paneer zinger"
+            },
+            {
+                "id": 803,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002412.jpg?ver=49.63",
+                "title": "Caribbean Spicy Zinger Burger & Popcorn Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹439.05",
+                "description": "Caribbean Spicy Zinger Burger with Medium Popcorn and Pepsi PET 475ml at a deal price"
+            },
+            {
+                "id": 804,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002415.jpg?ver=49.63",
+                "title": "Mexican Zinger Pro Burger & Popcorn Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹459.05",
+                "description": "New Zinger Pro burger with Medium Popcorn & Pepsi 475ml at a deal price"
+            },
+            {
+                "id": 805,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K815.jpg?ver=49.63",
+                "title": "Caribbean Spicy Zinger Burger",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹219.05",
+                "description": "Relish the Caribbean spicy zinger"
+            },
+            {
+                "id": 806,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002416.jpg?ver=49.63",
+                "title": "Mexican Zinger Pro Burger & Chicken Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹399.05",
+                "description": "New Zinger Pro burger with 1 Hot & Crispy chicken & Pepsi 475ml at a deal price"
+            },
+            {
+                "id": 807,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K788.jpg?ver=49.63",
+                "title": "American Classic Zinger-with Cheese",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹224.05",
+                "description": "Signature burger with a crunchy chicken fillet, cheese slice, veggies & a delicious mayo sauce"
+            },
+            {
+                "id": 808,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002413.jpg?ver=49.63",
+                "title": "Caribbean Spicy Zinger Burger & Chicken Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹379.05",
+                "description": "New Caribbean Spicy Zinger Burger with 1 Pc Hot & Crispy and Pepsi PET 475ml at a deal price"
+            },
+            {
+                "id": 809,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K789.jpg?ver=49.63",
+                "title": "Indian Tandoori Zinger Burger -with Cheese",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹233.57",
+                "description": "Chicken zinger with aádelicious tandoori sauce & cheese slice"
+            },
+            {
+                "id": 810,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00001025.jpg?ver=49.63",
+                "title": "2 Chicken Krisper Burgers",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹248.57",
+                "description": "2 delicious chicken value burgers - at a deal price"
+            },
+            {
+                "id": 811,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K787.jpg?ver=49.63",
+                "title": "Veg Zinger Burger- with Cheese",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹213.57",
+                "description": "Signature veg burger with crispy patties, cheese slice, veggies & a tangy sauce"
+            },
+            {
+                "id": 812,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00001022.jpg?ver=49.63",
+                "title": "2 Veg Krisper Burgers",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹179.05",
+                "description": "2 delicious veg value burgers - at a deal price"
+            },
+            {
+                "id": 813,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00000974.jpg?ver=49.63",
+                "title": "Family Feast",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving":"Serves 3",
+                "oldprice": "₹921.90",
+                "price": "₹859.05",
+                "description": "Family Deal of 3 chicken zingers, med popcorn, med fries & 1 Pepsi 475ml"
+            },
+            {
+                "id": 814,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00001027.jpg?ver=49.63",
+                "title": "Chicken & Krispers Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "oldprice": "₹593.33",
+                "price": "₹539.05",
+                "description": "Deal of 2 chicken value burgers, 2 Hot & Crispy, 2 dips (20gm each) & 1 Pepsi 475ml"
+            },
+            {
+                "id": 815,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K540.jpg?ver=49.63",
+                "title": "Indian Tandoori Zinger Burger",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹208.57",
+                "description": "Grab Tandoori Zinger Burger with Onions & Tangy sauce"
+            },
+            {
+                "id": 816,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00000956.jpg?ver=49.63",
+                "title": "Mixed Zinger Doubles",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "oldprice": "₹407.62",
+                "price": "₹368.57",
+                "description": "Best-seller combo of classic chicken zinger & tandoori zinger"
+            },
+            {
+                "id": 817,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K439.jpg?ver=49.63",
+                "title": "American Classic Zinger",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹199.05",
+                "description": "Relish the KFC Classic Zinger-lettuce, mayo & Zinger patty filled between"
+            },
+            {
+                "id": 818,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00000730.jpg?ver=49.63",
+                "title": "Buddy Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹528.57",
+                "description": "Share 2 Classic Chicken Zingers & a Medium Popcorn in this delightful combo for 2"
+            },
+            {
+                "id": 819,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K146.jpg?ver=49.63",
+                "title": "Veg Zinger Burger",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹188.57",
+                "description": "The OG Veg Zinger- Burgered to perfection"
+            },
+            {
+                "id": 820,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00001023.jpg?ver=49.63",
+                "title": "2 Veg Krispers Meal",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹288.57",
+                "description": "2 veg value burgers, crispy medium fries & 2 delicious dips (20 gm each) at a deal price" 
+            }
+        ],
+        "periPeriChicken": [
+            {
+                "id": 901,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002157.jpg?ver=49.63",
+                "title": "Peri Peri 5 Leg Pc & 2 Dips",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "oldprice": "₹633.33",
+                "price": "₹519.00",
+                "description": "Save Rs. 120 on 5 Peri Peri Leg pc, paired with 2 delicious dips"
+            },
+            {
+                "id": 902,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002584.jpg?ver=49.63",
+                "title": "5 Leg Pc & 2 Dips Pepsi Bottle Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹599.00",
+                "description": "Get Pepsi 330ml Reusable Bottle with 5 Pc Peri Per Chicken Leg Piece and 2 Dips (20gms each)"
+            },
+            {
+                "id": 903,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002583.jpg?ver=49.63",
+                "title": "6 Pc Strips & Pepsi Bottle Combo",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving":"Serves 1-2",
+                "price": "₹379.00",
+                "description": "Get Pepsi 330ml Reusable Bottle with 6 Pc Spicy Peri Peri Strips"
+            },
+            {
+                "id": 904,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002155.jpg?ver=49.63",
+                "title": "Peri Peri 10 Leg Pc & 4 Dips",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving":"Serves 3-4",
+                "oldprice": "₹1266.67",
+                "price": "₹949.00",
+                "description": "Leg before any wicket! Save 27% on 10 Peri Peri Leg Pieces & 4 Dips (20 gm each)"
+            },
+            {
+                "id": 905,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002156.jpg?ver=49.63",
+                "title": "Peri Peri 5 Leg Pc Meal",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 2",
+                "oldprice": "₹789.52",
+                "price": "₹649.00",
+                "description": "5 Spicy Peri Peri Leg Pieces, 2 Dips (20gm each), 1 Med Fries & 1 Pepsi 475ml"
+            },
+            {
+                "id": 906,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K285.jpg?ver=49.63",
+                "title": "Peri Peri 6pc Chicken Strips",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving":"Serves 2",
+                "price": "₹299.00",
+                "description": "Signature Chicken Strips sprinkled with Peri Peri- 6 Peri Peri Strips- Ultimate Snack!"
+            }
+        ],
+        "snacks": [
+            {
+                "id": 1001,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K701.jpg?ver=49.63",
+                "title": "Chocolate Lava Cake",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹108.57",
+                "description": "Chocolate Goodness! Soft chocolate cake with lava oozing center"
+            },
+            {
+                "id": 1002,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00000789.jpg?ver=49.63",
+                "title": "Chicken & Fries Bucket",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹299.05",
+                "description": "Crowd-favorite combo of 2pc Hot & Crispy chicken with Medium Fries"
+            },
+            {
+                "id": 1003,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00000792.jpg?ver=49.63",
+                "title": "Popcorn & Fries bucket",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹319.05",
+                "description": "Relish the Snack Bucket with Large Chicken Popcorn & Medium size Fries"
+            },
+            {
+                "id": 1004,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002171.jpg?ver=49.63",
+                "title": "Mingles Bucket",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "serving": "Serves 1-2",
+                "price": "₹379.05",
+                "description": "Save 13% on this mingle of 4 Wings, 2 Strips & a Reg Popcorn"
+            },
+            {
+                "id": 1005,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K008.jpg?ver=49.63",
+                "title": "4pc Hot & Crispy Chicken",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹428.57",
+                "description": "4 pcs of signature Hot & crispy chicken at a deal price"
+            },
+            {
+                "id": 1006,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K223.jpg?ver=49.63",
+                "title": "Large Popcorn",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹248.57",
+                "description": "Large Pack of Chicken Popcorn seasoned with the Chili Lime flavours"
+            },
+            {
+                "id": 1007,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K137.jpg?ver=49.63",
+                "title": "Medium Popcorn",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹168.57",
+                "description": "Medium Pack of Chicken Popcorn seasoned with the Chili Lime flavours"
+            },
+            {
+                "id": 1008,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K136.jpg?ver=49.63",
+                "title": "Regular Popcorn",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹115.24",
+                "description": "Regular Pack of Chicken Popcorn seasoned with the Chili Lime flavours"
+            },
+            {
+                "id": 1009,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K138.jpg?ver=49.63",
+                "title": "Large Fries",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹119.05",
+                "description": "Large size Fries"
+            },
+            {
+                "id": 1010,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/no-image.jpg",
+                "title": "2 pcs Smoky Red Chicken",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹248.57",
+                "description": "Savour 2 pieces of KFC Smoky Red Chicken- Hot Grilled Chicken Leg Piece!"
+            },
+            {
+                "id": 1011,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K016.jpg?ver=49.63",
+                "title": "Medium Fries",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹99.05",
+                "description": "Medium size Fries"
+            },
+            {
+                "id": 1012,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K007.jpg?ver=49.63",
+                "title": "2 pc Hot & Crispy Chicken",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹229.52",
+                "description": "Get 2 piece Hot & Crispy Chicken"
+            },
+            {
+                "id": 1013,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/no-image.jpg",
+                "title": "1 pc Smoky Red Chicken",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹124.76",
+                "description": "1pc smoky grilled chicken"
+            },
+            {
+                "id": 1014,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K303.jpg?ver=49.63",
+                "title": "4pc Hot Chicken Wings",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹179.05",
+                "description": "Snack on the 4 pc Chicken Hot Wings Snack with your KFC Meal"
+            },
+            {
+                "id": 1015,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K496.jpg?ver=49.63",
+                "title": "Choco Mud Pie",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹128.57",
+                "description": "Hit the Dessert Spot with the KFC Choco Mud Pie- creamy layered cake"
+            },
+            {
+                "id": 1016,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K684.jpg?ver=49.63",
+                "title": "Peri Peri 3pc Chicken Strips",
+                "point": "https://online.kfc.co.in/static/media/Non_veg_dot_Icon.d975d1f9.svg",
+                "variety": "Non veg",
+                "price": "₹179.05",
+                "description": "Free 3pc Chicken Strips on a cart value of 499 or more. Offer available only on Friday."
+            },
+            {
+                "id": 1017,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K351.jpg?ver=49.63",
+                "title": "2 pc Veg Patty",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹155.24",
+                "description": "Delicious, crispy, veg add-on"
+            },
+            {
+                "id": 1018,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K497.jpg?ver=49.63",
+                "title": "Coffee Mousse Cake",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹128.57",
+                "description": "Satiate your sweet cravings with the Coffee flavoured Mousse Cake! Divinely sweet!"
+            },
+            {
+                "id": 1019,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K616.jpg?ver=49.63",
+                "title": "Tandoori Masala Dip -20gm",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹28.57",
+                "description": "Add Tandoori Masala Dip to your meal!"
+            },
+            {
+                "id": 1020,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/no-image.jpg",
+                "title": "Pack of 4 Dips -20gm each",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹109.52",
+                "description": "Adding dips is always a good idea!"
+            },
+            {
+                "id": 1021,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K662.jpg?ver=49.63",
+                "title": "Nashville Hot Pepper Dip-20gm",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹28.57",
+                "description": "Try KFC Signature Dip"
+            },
+            {
+                "id": 1022,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00000853.jpg?ver=49.63",
+                "title": "Pack of 2 Dips-20gm each",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹57.14",
+                "description": "Adding dips is always a good idea!"
+            },
+            {
+                "id": 1023,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K661.jpg?ver=49.63",
+                "title": "Dynamite Spicy Mayo Dip-20gm",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹28.57",
+                "description": "Try KFC Signature Dip"
+            }
+        ],
+        "beverages": [
+            {
+                "id": 1101,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K350.jpg?ver=49.63",
+                "title": "Pepsi 475ml PET",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹57.14",
+                "description": "Pepsi 475ml PET"
+            },
+            {
+                "id": 1102,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/no-image.jpg",
+                "title": "Pepsi Can 300 ml",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹57.14",
+                "description": "Pepsi Can 300 ml"
+            },
+            {
+                "id": 1103,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K487.jpg?ver=49.63",
+                "title": "7UP Can 300 ml",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹57.14",
+                "description": "7UP Can 300 ml"
+            },
+            {
+                "id": 1104,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/no-image.jpg",
+                "title": "Pepsi Black Can 300 ml",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹57.14",
+                "description": "Pepsi Black Can 300 ml"
+            },
+            {
+                "id": 1105,
+                "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/no-image.jpg",
+                "title": "Mirinda Can 300 ml",
+                "point": "https://online.kfc.co.in/static/media/Veg_dot_Icon.d1a3902d.svg",
+                "variety": "Veg",
+                "price": "₹57.14",
+                "description": "Mirinda Can 300 ml"
+            }
+        ]
+
+    }
+}
