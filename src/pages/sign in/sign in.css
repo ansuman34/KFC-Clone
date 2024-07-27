@@ -1,0 +1,62 @@
+App.css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+    margin: 0;
+  }
+  
+  .container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #E4002B;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #E4002B;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button.guest {
+    background-color: #ddd;
+    color: #333;
+  }
+  
+  button:hover {
+    background-color: #d00027;
+  }
+  
+  button.guest:hover {
+    background-color: #ccc;
+  }
+  
+  p {
+    margin: 10px 0;
+  }

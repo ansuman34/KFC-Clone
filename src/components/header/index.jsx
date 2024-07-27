@@ -2,6 +2,9 @@ import React from 'react';
 import logo from '../../assets/img/kfcLogo.492728c6.svg';
 import logo2 from '../../assets/img/bucket_cart_icon.svg';
 import './header.css';
+import { Link} from 'react-router-dom';
+
+
 const header = () => {
   return (
     <>
@@ -15,20 +18,21 @@ const header = () => {
             <hr />
             <div className="headerWrapper">
                 <div className="navitems-left">
-                    <div className="logo">
-                        <img src={logo} alt="kfc" />
+                    <div className="logo">  
+                        <Link to="/"><img src={logo} alt="kfc" /></Link>
                     </div>
                     <div className="auth-links">
                         <ul>
-                            <li><a href="">menu</a></li>
-                            <li><a href="">deals</a></li>
+                            <li></li>
+                            <li><Link to="/deals">deals</Link></li>
+                            <li><Link to="/menu">menu</Link></li>
                         </ul>
                     </div>
                 </div>
                 <div className="navitems-right">
                     <div className="auth-links">
                         <ul>
-                            <li><a href=""><i class="bi bi-person-circle"></i> sign in</a></li>
+                            <li><Link to='/signin'><i class="bi bi-person-circle"></i> sign in</Link></li>
                         </ul>
                     </div>
                     <div className="order">

@@ -1,47 +1,110 @@
+
 .slider-container {
-    width: 100%;
-    margin: auto;
-    padding: 0 40px 40px 40px;
-    background-color: #202124;
-    color: white;
+  width: 100%;
+  margin: auto;
+  padding:0 20px 20px 20px;
+  background-color: #202124;
+  color: white;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: white;
+}
+.heading{
+  color:#e4002b;
+}
+.bannerTop {
+  background-color: #202124;
+}
+
+
+.slide {
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.slide img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.slide p {
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(23, 22, 22);
+}
+
+.slideBottom {
+  background-color: white;
+  height: 120px;
+}
+.buttons{
+  display: flex;
+  justify-content:space-between;
+  padding:10px;
+  align-items: center;
+}
+
+.card_link {
+  color: #202124;
+}
+.card_link:hover{
+  text-decoration: underline;
+}
+
+.card_btn {
+  background-color: white;
+  color: #202124;
+  border: 2px solid #202124;
+  border-radius: 20px;
+  padding: 8px 16px;
+}
+
+.card_btn:hover {
+  background-color: #202124;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .slider-container {
+    padding: 10px;
   }
-  
-  .slick-prev:before, .slick-next:before {
-    color: white;
+  .slide p {
+    font-size: 14px;
   }
-  .bannerTop{
-    background-color: #202124;
+  .slide img {
+    height: auto;
+  }
+  .card_btn {
+    padding: 6px 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .slider-container {
+    padding: 5px;
+  }
+  .slide p {
+    font-size: 12px;
   }
   .slide {
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-  }
-  
-  .slide img {
-    width: 100%;
-    border-radius: 8px;
-  }
-  
-  .slide p {
-    font-size: 16px;
-    font-weight: bold;
-    color: rgb(23, 22, 22);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
   .slideBottom{
-    background-color: white;
     height:100px;
   }
-  .card_link{
-    color: #202124;
-    margin-right: 30px;
+  .buttons{
+    height: 60px;
+    width:30px;
+    padding: none;
+    margin: 2px;
   }
-  .card_btn{
-    background-color: white;
-    color:#202124;
-    border:2px solid #202124;
-    border-radius: 20px;
+  .card_link,
+  .card_btn {
+    margin: 5px 0;
   }
-  .card_btn:hover{
-    background-color: #202124;
-  }
+}

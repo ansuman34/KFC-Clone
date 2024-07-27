@@ -15,7 +15,7 @@ const PrevArrow = (props) => {
   return (
     <div
       className={className}
-      style={{ ...style, display: "block", background: "black", borderRadius: "50%" }}
+      style={{ ...style, display: "block", background: "black", borderRadius: "50%"}}
       onClick={onClick}
     />
   );
@@ -55,27 +55,36 @@ const SliderComponent = () => {
           <img src={logo} alt="Offer 1" />
           <div className="slideBottom">
             <p>Free 1pc Chicken</p>
-            <a href="#" class="card_btn btn btn-primary">
-              apply offer
-          </a>
+            <div className='buttons'>
+              <a href='#' class='card_link'>view details</a>
+              <a href="#" class="card_btn btn btn-primary">
+                apply offer
+              </a>
+            </div>
           </div>
         </div>
         <div className="slide">
           <img src={logo5} alt="Offer 1" />
           <div className="slideBottom">
             <p>Free Zinger worth ₹209</p>
-            <a href="#" class="card_btn btn btn-primary">
-              apply offer
-          </a>
+            <div className='buttons'>
+              <a href='#' class='card_link'>view details</a>
+              <a href="#" class="card_btn btn btn-primary">
+                apply offer
+              </a>
+            </div>
           </div>
         </div>
         <div className="slide">
           <img src={logo4} alt="Offer 2" />
           <div className="slideBottom">
             <p>3PC Hot & Crispy @ ₹99</p>
-            <a href="#" class="card_btn btn btn-primary">
-              apply offer
-          </a>
+            <div className='buttons'>
+              <a href='#' class='card_link'>view details</a>
+              <a href="#" class="card_btn btn btn-primary">
+                apply offer
+              </a>
+            </div>
           </div>
         </div>
         <div className="slide">
@@ -83,9 +92,12 @@ const SliderComponent = () => {
           <div className="slideBottom">
             <p>Upto ₹100/- OFF</p>
             
-            <a href="#" class="card_btn btn btn-primary">
-              apply offer
-          </a>
+            <div className='buttons'>
+              <a href='#' class='card_link'>view details</a>
+              <a href="#" class="card_btn btn btn-primary">
+                apply offer
+              </a>
+            </div>
           </div>
 
         </div>
@@ -93,10 +105,12 @@ const SliderComponent = () => {
           <img src={logo2} alt="Offer 4" />
           <div className="slideBottom">
             <p>Flat ₹75/- OFF</p>
-            <a href='#' class='card_link'>view details</a>
-            <a href="#" class="card_btn btn btn-primary">
-              apply offer
-          </a>
+            <div className='buttons'>
+              <a href='#' class='card_link'>view details</a>
+              <a href="#" class="card_btn btn btn-primary">
+                apply offer
+              </a>
+            </div>
           </div>
 
         </div>

@@ -1,22 +1,72 @@
-.footerWrapper{
-    background-color:#202124;
-    color:#fff;
+.footer {
+  background-color: #222222;
+  color: #fff;
+  padding: 20px 0;
+  font-family: Arial, sans-serif;
 }
-.footerWrapper img{
-    margin-left:30px;
-}
-.row{
-    display:grid;
-    grid-template-columns: repeat(6,1fr);
 
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  max-width: 1200px;
+  margin: 0 auto;
+  flex-wrap: wrap;
 }
-.footerList{
-    list-style-type: none;
-    font-size: 15px;
-    line-height: 24px;
+
+.footer-section {
+  margin: 10px 0;
 }
-.footerList li a{
-    text-decoration: none;
-    color: #fff;
-    white-space:nowrap;
+
+.footer-section h4 {
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.footer-section ul {
+  cursor: pointer;
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.footer-section.logo img {
+  cursor: pointer;
+  max-width: 100px;
+}
+
+.footer-section.apps.app-icons img {
+max-width: 120px;
+margin-right: 10px;
+}
+.app-icons{
+  cursor: pointer;
+}
+
+.footer-bottom {
+  display: flex;
+  justify-content:flex-end;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 20px;
+  margin-right: 10%;
+}
+
+.footer-bottom p {
+  margin: 0;
+  font-size: 14px;
+}
+
+.social-icons img {
+  cursor: pointer;
+  max-width: 30px;
+  margin: 0 5px;
+}
+.social-icons{
+  margin-left: 30%;
 }
