@@ -92,24 +92,28 @@ section img {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
   
-  section#chicken img {
+  section#valueLunchSpecials img {
     background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1));
   }
   
-  section#sandwiches img {
+  section#burgers img {
     background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1));
   }
   
-  section#sides img {
+  section#snacks img {
     background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1));
   }
   
-  section#desserts img {
+  section#beverages img {
     background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1));
   }
   section#newchickenrolls img {
     background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1));
   }
+  section#chickenbucket img {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1));
+  }
+
    
   
   /* Footer Styles */
