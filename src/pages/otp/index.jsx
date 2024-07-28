@@ -16,10 +16,10 @@ const Otp = () => {
 
   return (
     <div className="container">
-      <h1>KFC</h1>
+      <img src="https://login.kfc.co.in/auth/resources/jdsrg/login/kfcIndiaLoginUIDev_02-23-2024-12-20/images/KFC_logo.svg" width="50 px" alt="KFC logo"/>
       <h2>We Just Texted You</h2>
       <p>Please enter the verification code we just sent to <strong>91**********</strong></p>
-      <a href="#">Different Number?</a>
+      <Link to='/signin'>Different Number?</Link>
       <form onSubmit={handleSubmit}>
         <input
           type="number"
