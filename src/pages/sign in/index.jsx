@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './sign in.css';
+import './sign_in.css';
 import { Link } from "react-router-dom";
 
 const SignIn = () => {
@@ -13,7 +13,7 @@ const SignIn = () => {
     <div className="container">
       <div className="form">
         <h2>Sign In / Sign up</h2>
-        <h1>KFC</h1>
+        <img src="https://login.kfc.co.in/auth/resources/jdsrg/login/kfcIndiaLoginUIDev_02-23-2024-12-20/images/KFC_logo.svg" width="50 px" alt="KFC logo"/>
         <p>LET'S SIGN IN OR CREATE ACCOUNT WITH YOUR PHONE NUMBER!</p>
         <input
           type="text"

@@ -15,12 +15,11 @@ const header = () => {
                 </div>
                 <button className='locationButton'>set location</button>
             </div>
+            <br/>
             <hr />
             <div className="headerWrapper">
-                <div className="navitems-left">
-                    <div className="logo">  
-                        <Link to="/"><img src={logo} alt="kfc" /></Link>
-                    </div>
+                <div className="navitems-left">  
+                    <Link to="/" ><img src={logo} className='logo' alt="kfc" /></Link>
                     <div className="auth-links">
                         <ul>
                             <li></li>
@@ -36,8 +35,8 @@ const header = () => {
                         </ul>
                     </div>
                     <div className="order">
-                        <a href="">₹0</a>
-                        <img src={logo2} alt="bucket"/>
+                        <a href="">₹0</a>  
+                        <img className='order_logo' src={logo2} alt="bucket"/>   
                     </div>
                 </div>
             </div>

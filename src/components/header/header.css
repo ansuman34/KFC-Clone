@@ -17,6 +17,9 @@
     height: 50px;
     margin-right: 1.2%;
   }
+  .locationData{
+    font-size: medium;
+  }
   
   .locationButton {
     height: 32px;
@@ -64,11 +67,15 @@
   
   .order {
     display: flex;
+    justify-content:space-between;
+    align-content: center;
+    text-decoration: none;
   }
   
-  .order a {
+  .order a{
     text-decoration: none;
     color: black;
+    margin-bottom: 5px;
   }
   
   .headerBottom {
@@ -114,8 +121,12 @@
     .headerLocation {
       padding: 10px 0;
     }
+    .locationData{
+      font-size: small;
+    }
     .locationButton {
       width: 100px;
+      font-size: x-small;
     }
     .headerBottom {
       height: 60px;
@@ -129,8 +140,12 @@
     .headerLocation {
       padding: 8px 0;
     }
+    .locationData{
+      font-size:x-small;
+    }
     .locationButton {
       width: 100px;
+      font-size: xx-small;
     }
     .headerBottom {
       height: 70px;
@@ -146,7 +161,28 @@
     }
   }
   @media only screen and (max-width: 460px){
+    .headerLocation {
+      height: 65px;
+    }
     .locationButton{
       height:40px;
+      font-size: xx-small;
+    }
+    .locationData{
+      font-size:xx-small;
+    }
+    .headerWrapper{
+      font-size: small;
+      height: 80px;
+      flex-wrap: wrap;
+      justify-content: none;
+    }
+    .logo ,
+    .order_logo{
+      width:40px;
+      height: 40px;
+    }
+    .auth-links ul li {
+      margin:0 4px 0 0;
     }
   }
