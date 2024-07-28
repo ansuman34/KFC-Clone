@@ -107,6 +107,11 @@ section img {
   section#desserts img {
     background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1));
   }
+  section#newchickenrolls img {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1));
+  }
+   
+  
   /* Footer Styles */
   
   footer {
