@@ -1,194 +1,222 @@
 .App {
-    text-align: center;
+  text-align: center;
+}
+
+.offers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  margin: 0px 5%;
+}
+
+.offer-header {
+  background-image: url("https://online.kfc.co.in/static/media/offer_deals_banner.777f20e1.svg");
+  background-size: cover;
+  background-position:center;
+  color: white;
+  padding: 60px 0px;
+  width: 100%;
+  font-family:Arial, Helvetica, sans-serif, Bold;
+  font-size: 300%;
+  font-weight: 900;
+}
+
+.stripe-icon {
+  margin-bottom: 20px;
+}
+
+.offers-texts {
+  margin-bottom: 20px;
+  width: auto;
+
+}
+
+.np{
+  font-family:Arial, Helvetica, sans-serif;
+  width:50%;
+  display: inline-block;
+}
+
+.signIn {
+  width:50%;
+  display: inline-block;
+  a:link{
+    color: rgb(17, 16, 16);
   }
-  
-  .offers {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 0px 5% 0px 5%;
-  }
-  
-  .offer-header {
-    background-image: url("https://online.kfc.co.in/static/media/offer_deals_banner.777f20e1.svg");
-    background-size: cover;
-    background-position:center;
-    color: white;
-    padding: 60px 0px;
-    width: 100%;
-    font-family:Arial, Helvetica, sans-serif, Bold;
-    font-size: 20px;
-  }
-  
-  .stripe-icon {
-    margin-bottom: 20px;
-  }
-  
-  .offers-texts {
-    margin-bottom: 20px;
-    width: auto;
-  
-  }
-  
-  .np{
-    font-family:Arial, Helvetica, sans-serif;
-    width:50%;
-    display: inline-block;
-  }
-  
-  .signIn {
-    width:50%;
-    display: inline-block;
-    a:link{
-      color: rgb(17, 16, 16);
-    }
-  }
-  
-  @media screen and (min-width: 762px){
-    h3.offer-store-text{
-      margin: 40% 10% 0 10%;
-      font-size: 50px;
-      width: 70%;
-    }
-    h3.offer-login-text{
-      font-size: 40px;
-    }
-    .offers-deals-card{
-      width: 26%;
-      /* height:fit-content; */
-    }
-    .np{
-      font-weight:900;
-      font-size: 25px;
-    }
-    .login-card{
-      width: 25%;
-      height: auto;
-      margin: 0px .75% 0px .75%;
-  
-    }
-    .offer-btn{
-      width: auto;
-      height: fit-content;
-      border-radius: 40px;
-      font-size: 80%;
-    }
-  }
-  
-  @media screen and (max-width: 761px){
-    .offer-btn{
-      width: 100px;
-      font-size: 70%;
-      border-radius: 40px;
-    }
-    .np{
-      font-size: 20px;
-      font-weight: bold;
-    }
-    h3.offer-store-text{
-      margin-top: 100px;
-      font-size: 20px;
-    }
-    .signIn {
-      width: 70%;
-    }
-    .offers-deals-card{
-      margin-top: 4%;
-      padding: 20%;
-      width: 50%;
-      height: fit-content;
-    }
-    .login-card{
-      padding: 20% 10%;
-      width: 50%;
-      height: fit-content;
-      margin: 5%;
-    }
-  }
-  
-  .offer-store-text{
-    width: auto;
-    display: inline-block;
-  }
-  
-  .offers-deals-card{
-    /* font-size: 20px; */
-    font-family:Arial, Helvetica, sans-serif;
-    text-align:center;
-    justify-content:center;
-    color: white;
-    background-image: url('https://online.kfc.co.in/static/media/Native_select%20a%20kfc_grey%20image.6e97ff02.svg');
-    background-size:cover;
-    background-repeat: no-repeat;
-    background-position:center;
-  }
-  
-  .offer-btn {
-    border: 1px solid white;
-    /* border-radius: 20px; */
+}
+
+
+.offer-store-text{
+  width: auto;
+  display: inline-block;
+}
+
+.offers-deals-card{
+  font-family:Arial, Helvetica, sans-serif;
+  text-align:center;
+  justify-content:center;
+  color: white;
+  background-image: url('https://online.kfc.co.in/static/media/Native_select%20a%20kfc_grey%20image.6e97ff02.svg');
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position:center;
+}
+
+.offer-btn {
+  border: 1px solid white;
+  margin: 0px 0px 10% 0px;
+  background-color: transparent;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.offer-btn:hover {
+  background-color: white;
+  color: black;
+}
+
+.login-card {
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+  font-family:Arial, Helvetica, sans-serif;
+  background-color: rgb(192, 4, 4);
+  color: white;
+  /* text-align:center; */
+  border-radius: 8px;
+  justify-content:center;
+}
+
+.offer-login-text {
+  width: auto;
+  display: inline-block;
+}
+
+.login-btn {
+  width: fit-content;
+  border: 1px solid white;
+    border-radius: 20px;
     background-color: transparent;
     color: white;
     padding: 10px 20px;
     cursor: pointer;
-    /* font-size: 14px; */
-    /* margin-bottom:; */
-  }
-  .offer-btn:hover {
-    background-color: white;
-    color: black;
-  }
-  
-  .login-card {
-    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
-    font-family:Arial, Helvetica, sans-serif;
-    background-color: rgb(192, 4, 4);
-    color: white;
-    text-align:center;
-    border-radius: 8px;
-    justify-content:center;
-  }
-  
-  .offer-login-text {
-    margin-top: 30%;
-    width: auto;
-    display: inline-block;
-  }
-  
-  .login-btn {
-    border: 1px solid white;
-      border-radius: 20px;
-      background-color: transparent;
-      color: white;
-      padding: 10px 20px;
-      cursor: pointer;
-      font-size: 14px;
-  }
-  .login-btn:hover {
-    background-color: white;
-    color: black;
-  }
-  
-  .load-more {
-    text-align: center;
-    margin-top: 20px;
-  }
-  .load-more button:hover{
-    background-color: black;
-    color: white;
-  }
-  
-  .load-more button {
-    background-color: white;
-    color: black;
-    border: 1px solid black;
-    padding: 10px 20px;
-    cursor: pointer;
-    font-size: 16px;
-    border-radius: 20px;
-  }
-  
-  .load-more p {
-    margin-top: 10px;
     font-size: 14px;
-    color: gray;
+    
+}
+.login-btn:hover {
+  background-color: white;
+  color: black;
+}
+
+.load-more {
+  text-align: center;
+  margin-top: 20px;
+}
+.load-more button:hover{
+  background-color: black;
+  color: white;
+}
+
+.load-more button { width: fit-content;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 20px;
+}
+
+.load-more p {
+  margin-top: 10px;
+  font-size: 14px;
+  color: gray;
+}
+
+@media screen and (min-width: 1036px){
+  .stripe-icon{
+    margin-right: 66%;
   }
+  h3.offer-store-text{
+    margin: 50% 0% 10% 0%;
+    font-size: 200%;
+    width: 90%;
+  }
+  h3.offer-login-text{
+    margin-top: 25%;
+    font-size: 200%;
+  }
+  .offers-deals-card{
+    width: 26%;
+    margin-left: .5%;
+  }
+  .np{
+    font-weight:900;
+    font-size: 25px;
+  }
+  .login-card{
+    width: 25%;
+    margin: .75% .75% .75% 1.25%;
+  }
+  .offer-btn{
+    width: auto;
+    height: fit-content;
+    border-radius: 40px;
+    font-size: 80%;
+  }
+  .login-btn{
+    margin-bottom: 35%;
+  }
+}
+
+@media screen and (max-width: 760.99px){
+  .offer-btn{
+    width: 100px;
+    font-size: 80%;
+    border-radius: 40px;
+  }
+  .np{
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .signIn {
+    width: 70%;
+  }
+  .offers-deals-card{
+    padding: 5% 20%;
+  }
+  .login-card{
+    padding: 20% 19%;
+    margin-top: 1%;
+  }
+}
+
+@media screen and (max-width: 1035.99px){
+  h3.offer-store-text{
+    margin: 50% 0% 10% 0%;
+    font-size: 200%;
+    width: 90%;
+  }
+  h3.offer-login-text{
+    margin-top: 25%;
+    font-size: 180%;
+    font-weight: 800;
+  }
+  .offers-deals-card{
+    width: 47.5%;
+  }
+  .np{
+    font-weight:900;
+    font-size: 25px;
+  }
+  .login-card{
+    width: 45%;
+    margin-left: 1%;
+
+  }
+  .offer-btn{
+    width: auto;
+    height: fit-content;
+    border-radius: 40px;
+    font-size: 80%;
+    margin-bottom: 20%;
+  }
+}
