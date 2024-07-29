@@ -92,7 +92,7 @@
     margin: 0 0 0 20px;
   }
   
-  .hButtomButton {
+  .hBottomButton {
     background-color: #e4002b;
     height: 44px;
     width: 165px;
@@ -111,7 +111,7 @@
     .headerBottom {
       height: 80px;
     }
-    .hButtomButton {
+    .hBottomButton {
       width: 200px;
     }
   }
@@ -131,7 +131,7 @@
     .headerBottom {
       height: 60px;
     }
-    .hButtomButton {
+    .hBottomButton {
       width: 200px;
     }
   }
@@ -148,16 +148,18 @@
       font-size: xx-small;
     }
     .headerBottom {
-      height: 70px;
+      height: 80px;
       flex-direction: column;
       align-items: center;
     }
-    .hButtomButton {
-      width: 150px;
+    .hBottomButton {
+      width: 100px;
+      font-size: small;
       margin-left: 0;
     }
     .headBottomTxt {
-      margin: 0;
+      margin-top: 10px;
+      font-size: medium;
     }
   }
   @media only screen and (max-width: 460px){
@@ -184,5 +186,21 @@
     }
     .auth-links ul li {
       margin:0 4px 0 0;
+    }
+    .headerBottom {
+      height: 100px;
+      flex-direction: column;
+      align-items: center;
+    }
+    .hBottomButton {
+      width: 100px;
+      font-size: x-small;
+      margin-left: 0;
+      margin-bottom: 10px;
+      height: 40px;
+    }
+    .headBottomTxt {
+      margin-top: 10px;
+      font-size:small;
     }
   }
