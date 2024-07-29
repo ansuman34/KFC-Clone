@@ -35,8 +35,9 @@ const header = () => {
                         </ul>
                     </div>
                     <div className="order">
-                        <a href="">₹0</a>  
-                        <img className='order_logo' src={logo2} alt="bucket"/>   
+                        <Link to='/cart'><a href="">₹0</a> </Link>
+                        
+                        <img className='oredr_logo' src={logo2} alt="bucket"/>
                     </div>
                 </div>
             </div>

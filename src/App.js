@@ -5,6 +5,7 @@ import Deals from './pages/deals';
 import Menu from './pages/menu';
 import SignIn from './pages/sign in';
 import Otp from './pages/otp';
+import CartPage from './pages/cart/cart';
 
 const App = () => {
   return (
@@ -15,6 +16,8 @@ const App = () => {
         <Route path="/menu" element={<Menu />} />
         <Route path='/signin' element={<SignIn/>}/>
         <Route path='/otp' element={<Otp/>}/>
+        <Route path='/cart' element={<CartPage/>}/>
+
       </Routes>
     </BrowserRouter>
   );
