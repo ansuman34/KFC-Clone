@@ -167,28 +167,6 @@
   }
 }
 
-@media screen and (max-width: 760.99px){
-  .offer-btn{
-    width: 100px;
-    font-size: 80%;
-    border-radius: 40px;
-  }
-  .np{
-    font-size: 20px;
-    font-weight: bold;
-  }
-  .signIn {
-    width: 70%;
-  }
-  .offers-deals-card{
-    padding: 5% 20%;
-  }
-  .login-card{
-    padding: 20% 19%;
-    margin-top: 1%;
-  }
-}
-
 @media screen and (max-width: 1035.99px){
   h3.offer-store-text{
     margin: 50% 0% 10% 0%;
@@ -218,5 +196,30 @@
     border-radius: 40px;
     font-size: 80%;
     margin-bottom: 20%;
+  }
+}
+
+@media screen and (max-width: 760.99px){
+  .offer-btn{
+    width: 100px;
+    font-size: 80%;
+    border-radius: 40px;
+  }
+  .np{
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .signIn {
+    width: 70%;
+  }
+  .offers-deals-card{
+    width: fit-content;
+  }
+  .offer-btn{
+    width: 150px;
+  }
+  .login-card{
+    width: fit-content;
+    padding: 25% 0;
   }
 }
