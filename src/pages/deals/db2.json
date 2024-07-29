@@ -2,59 +2,87 @@
     "deals": [
         {
             "id": 2001,
-            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/xl/YAYZINGER.jpg?ver=49.63",
-            "title": "FREE CHICKEN ZINGER ON A CART VALUE OF 499 OR MORE. SUNDAY ONLY",
-            "date": "Valid till 31/12/24",
-            "description": "Free Chicken Zinger on a cart value of 499 or more. Sunday only"
+            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/md/CHKZINGER.jpg?ver=49.63",
+            "title": "FREE CHICKEN ZINGER ON A CART VALUE OF 499 OR ABOVE ON FIRST ORDER. ONLY FOR REGISTERED USERS.",
+            "date": "Valid till 31/12/30",
+            "description": "1 Pc free Chicken Zinger on a cart value of 499 or above on first order. Only for registered users."
         },
         {
             "id": 2002,
-            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/xl/YAYPOP.jpg?ver=49.63",
-            "title": "FREE POPCORN (MED) ON A CART VALUE OF 499 OR MORE. SUNDAY ONLY",
+            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/md/ADDCHK99.jpg?ver=49.63",
+            "title": "ADD 2 PC HOT N CRISPY CHICKEN AT JUST RS 99 ON MIN CART VALUE OF RS 499 OR MORE. APPLICABLE ON 2ND & 3RD ORDER FOR SIGNED IN USER.",
             "date": "Valid till 31/12/24",
-            "description": "Free Popcorn (Med) on a cart value of 499 or more. Sunday only"
+            "description": "Add 2 Pc Hot n Crispy Chicken at just Rs 99 on min cart value of Rs 499 or more. Applicable on 2nd & 3rd order for signed in user."
         },
         {
             "id": 2003,
-            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/xl/YAYCHKN.jpg?ver=49.63",
-            "title": "FREE 1PC CHICKEN ON A CART VALUE OF 499 OR MORE. SUNDAY ONLY",
-            "date": "Valid till 31/12/24",
-            "description": "Free 1pc Chicken on a cart value of 499 or more. Sunday only"
-        },
-        {
-            "id": 2004,
-            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/xl/YAYSTRIPS.jpg?ver=49.63",
-            "title": "FREE 3PC STRIPS ON A CART VALUE OF 499 OR MORE. SUNDAY ONLY",
-            "date": "Valid till 31/12/24",
-            "description": "Free 3pc Strips on a cart value of 499 or more. Sunday only"
-        },
-        {
-            "id": 2005,
-            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/xl/YAYVZINGER.jpg?ver=49.63",
-            "title": "FREE VEG ZINGER ON A CART VALUE OF 499 OR MORE. SUNDAY ONLY",
-            "date": "Valid till 31/12/24",
-            "description": "Free Veg Zinger on a cart value of 499 or more. Sunday only"
-        },
-        {
-            "id": 2006,
-            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/xl/YAYFRIES.jpg?ver=49.63",
-            "title": "FREE FRIES (MED) ON A CART VALUE OF 499 OR MORE. SUNDAY ONLY",
-            "date": "Valid till 31/12/24",
-            "description": "Free Fries (Med) on a cart value of 499 or more. Sunday only"
-        },
-        {
-            "id": 2007,
-            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/xl/BIGSAVE.jpg?ver=49.63",
+            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/md/BIGSAVE.jpg?ver=49.63",
             "title": "UPTO RS 100 OFF ON MIN CART VALUE OF RS 699 OR MORE . APPLICABLE ON 4TH ORDER ONWARDS FOR SIGNED IN USER.",
             "date": "Valid till 31/12/24",
             "description": "Upto Rs 100 off on min cart value of Rs 699 or more . Applicable on 4th order onwards for signed in user."
         },
         {
-            "id": 2008,
-            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/xl/ADDCHK99.jpg?ver=49.63",
-            "title": "ADD 2 PC HOT N CRISPY CHICKEN AT JUST RS 99 ON MIN CART VALUE OF RS 499 OR MORE. APPLICABLE ON 2ND & 3RD ORDER FOR SIGNED IN USER.",
+            "id": 2004,
+            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/md/PHP75.jpg?ver=49.63",
+            "title": "GET FLAT RS.75 OFF ON A CART VALUE OF RS.599 OR ABOVE",
             "date": "Valid till 31/12/24",
-            "description": "Add 2 Pc Hot n Crispy Chicken at just Rs 99 on min cart value of Rs 499 or more. Applicable on 2nd & 3rd order for signed in user."
+            "description": "Get flat Rs.75 off on a cart value of Rs.599 or above"
+        },
+        {
+            "id": 2005,
+            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/md/YAYPOP.jpg?ver=49.63",
+            "title": "FREE POPCORN (MED) ON A CART VALUE OF 499 OR MORE. FRIDAY ONLY.",
+            "date": "Valid till 31/12/24",
+            "description": "Free Popcorn (Med) on a cart value of 499 or more. Friday only."
+        },
+        {
+            "id": 2006,
+            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/md/YAYCHKN.jpg?ver=49.63",
+            "title": "FREE 1PC CHICKEN ON A CART VALUE OF 499 OR MORE. FRIDAY ONLY.",
+            "date": "Valid till 31/12/24",
+            "description": "Free 1pc Chicken on a cart value of 499 or more. Friday only."
+        },
+        {
+            "id": 2007,
+            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/md/YAYSTRIPS.jpg?ver=49.63",
+            "title": "FREE 3PC STRIPS ON A CART VALUE OF 499 OR MORE. FRIDAY ONLY.",
+            "date": "Valid till 31/12/24",
+            "description": "Free 3pc Strips on a cart value of 499 or more. Friday only."
+        },
+        {
+            "id": 2008,
+            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/md/YAYVZINGER.jpg?ver=49.63",
+            "title": "FREE VEG ZINGER ON A CART VALUE OF 499 OR MORE. FRIDAY ONLY.",
+            "date": "Valid till 31/12/24",
+            "description": "Free Veg Zinger on a cart value of 499 or more. Friday only."
+        },
+        {
+            "id": 2009,
+            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/md/YAYFRIES.jpg?ver=49.63",
+            "title": "FREE FRIES (MED) ON A CART VALUE OF 499 OR MORE. FRIDAY ONLY.",
+            "date": "Valid till 31/12/24",
+            "description": "Free Fries (Med) on a cart value of 499 or more. Friday only."
+        },
+        {
+            "id": 2010,
+            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/md/VEGZINGER.jpg?ver=49.63",
+            "title": "1 PC FREE VEG ZINGER ON A CART VALUE OF RS.499 OR ABOVE ON FIRST ORDER. ONLY FOR REGISTERED USERS",
+            "date": "Valid till 31/12/24",
+            "description": "1 Pc free Veg Zinger on a cart value of Rs.499 or above on first order. Only for registered users"
+        },
+        {
+            "id": 2011,
+            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/md/YAYZINGER.jpg?ver=49.63",
+            "title": "FREE CHICKEN ZINGER ON A CART VALUE OF 499 OR MORE. FRIDAY ONLY",
+            "date": "Valid till 31/12/24",
+            "description": "Free Chicken Zinger on a cart value of 499 or more. Friday only"
+        },
+        {
+            "id": 2010,
+            "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/md/FREEROLL.jpg?ver=49.63",
+            "title": "FREE DOUBLE CHICKEN ROLL ON A CART VALUE OF 999 OR ABOVE.",
+            "date": "Valid till 31/12/24",
+            "description": "Free Double chicken roll on a cart value of 999 or above."
         }
     ]
 }

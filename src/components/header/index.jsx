@@ -44,7 +44,7 @@ const header = () => {
         </div>
         <div className="headerBottom">
             <div class="headBottomTxt">LET'S ORDER FOR DELIVERY, PICK UP, OR DINE-IN</div>
-            <button className='hButtomButton'>Start Over</button>
+            <button className='hBottomButton'>Start Over</button>
         </div>
     </>
   )
