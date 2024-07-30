@@ -178,6 +178,7 @@
       height: 80px;
       flex-wrap: wrap;
       justify-content: none;
+      width: fit-content;
     }
     .logo ,
     .order_logo{
