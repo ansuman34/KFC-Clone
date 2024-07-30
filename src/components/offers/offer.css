@@ -83,3 +83,6 @@
 .buttons a{
   cursor: pointer;
 }
+.modal-content{
+  padding-bottom: 10%;
+}
