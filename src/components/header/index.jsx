@@ -35,7 +35,7 @@ const header = () => {
                         </ul>
                     </div>
                     <div className="order">
-                        <Link to='/cart'><a href="">₹0</a> </Link>
+                        <Link to='/cart'><a href="http://localhost:3000/cart">₹0</a></Link>
                         
                         <img className='oredr_logo' src={logo2} alt="bucket"/>
                     </div>
