@@ -167,10 +167,10 @@
       font-size:xx-small;
     }
     .headerWrapper{
-      font-size: small;
+      font-size:x-small;
       height: 80px;
       flex-wrap: wrap;
-      justify-content: none;
+      justify-content:none;
       width: fit-content;
     }
     .logo ,

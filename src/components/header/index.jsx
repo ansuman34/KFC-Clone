@@ -62,12 +62,14 @@ const Header = () => {
                   <i className="bi bi-person-circle"></i> sign in
                 </Link>
               </li>
+              <li>
+                <div className="order">
+                  <Link to="/cart">
+                    <img className="order_logo" src={logo2} alt="bucket" />
+                  </Link>
+                </div>
+              </li>
             </ul>
-          </div>
-          <div className="order">
-            <Link to="/cart">
-              <img className="oredr_logo" src={logo2} alt="bucket" />
-            </Link>
           </div>
         </div>
       </div>
