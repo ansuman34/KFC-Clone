@@ -6,7 +6,7 @@ import { Link} from 'react-router-dom';
 const card = () => {
   return (
     <div className="card-Wrapper">
-      <Link to="/deals">
+      <Link to="/menu">
         <div className="card">
             <img src={img} class="card-img-top" alt="..." />
             <div class="card-body">

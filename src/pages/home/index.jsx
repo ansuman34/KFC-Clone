@@ -22,7 +22,7 @@ const home = () => {
         <Card />
         <Card />
         <Card />
-        <Link to='/deals'>
+        <Link to='/menu'>
           <div class="card">
               <img src={img} class="card-img-top" alt="..." />
               <div class="card-body">

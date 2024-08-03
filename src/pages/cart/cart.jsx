@@ -1,120 +1,86 @@
-import React, { useEffect, useState } from "react";
-import "./cart.css";
-import linesLogo from "../../assets/img/mobileLogo.png";
-import { useNavigate } from "react-router-dom";
-import { Heading } from "@chakra-ui/react";
-import CartCards from "../../components/cartcards";
-import Header from "../../components/header";
-import Footer from "../../components/footer";
+import React, { useState, useEffect } from 'react';
+import './cart.css';
+import Header from '../../components/header';
+import Footer from '../../components/footer';
+import { Link } from 'react-router-dom';
+import Logo from '../../assets/img/mobileLogo.png'
+import empty_cart_logo from '../../assets/img/empty_cart.png'
 
-const Cart = ({ purchase ={}, setPurchase }) => {
-  const [cartData, setCartData] = useState([]);
-
-  const navigate = useNavigate();
-  const gst = parseFloat(purchase.subTotal * 0.05).toFixed(2);
-
-  const fetchData = () => {
-    const localCart = JSON.parse(localStorage.getItem("cartData")) || [];
-    setCartData(localCart);
-  };
+function Cart() {
+  const [cartItems, setCartItems] = useState([]);
 
   useEffect(() => {
-    fetchData();
+    const cartData = JSON.parse(localStorage.getItem('cartData')) || [];
+    setCartItems(cartData);
   }, []);
 
-  return (
-    <div className="cart-Body">
-        <Header />
-      {purchase.quantity < 1 ? (
-        <div className="cart-cardsSection">
-          <div className="cart-headingSection">
-            <img src={linesLogo} alt="logo" className="cart-3lingLogo" />
-            MY CART
-          </div>
+  const handleQuantityChange = (index, delta) => {
+    const updatedCartItems = [...cartItems];
+    updatedCartItems[index].quantity += delta;
+    if (updatedCartItems[index].quantity <= 0) {
+      updatedCartItems.splice(index, 1);
+    }
+    setCartItems(updatedCartItems);
+    localStorage.setItem('cartData', JSON.stringify(updatedCartItems));
+  };
 
-          <div className="cart-data-parent-Empty-box">
-            <div className="cart-data-parent-Empty-box-left">
-              <p>YOUR CART IS EMPTY. LET'S START AN ORDER!</p>
-              <button
-                className="cart-empty-Start-button"
-                onClick={() => navigate("/menu")}
-              >
-                Start Order
-              </button>
-            </div>
-            <div className="cart-data-parent-Empty-box-right">
-              <img
-                src="https://online.kfc.co.in/static/media/empty_cart.32f17a45.png"
-                alt="empty cart img"
-                className="EmptyCartImage"
-              />
-            </div>
-          </div>
+  const handleRemoveItem = (index) => {
+    const updatedCartItems = [...cartItems];
+    updatedCartItems.splice(index, 1);
+    setCartItems(updatedCartItems);
+    localStorage.setItem('cartData', JSON.stringify(updatedCartItems));
+  };
+
+  const totalPrice = cartItems.reduce((total, item) => {
+    const itemPrice = parseFloat(item.price);
+    const itemQuantity = parseInt(item.quantity, 10);
+    return total + (isNaN(itemPrice) || isNaN(itemQuantity) ? 0 : itemPrice * itemQuantity);
+  }, 0);
+
+  return (
+    <div>
+      <Header />
+      <main className="cart">
+        <div className="cart_header">
+          <img className='Logo' src={Logo} alt="" />
+          <h1>My Cart</h1>
         </div>
-      ) : (
-        <div className="cart-parentContianer">
-          <div className="cart-cardsSection">
-            <div className="cart-headingSection">
-              <img src={linesLogo} alt="logo" className="cart-3lingLogo" />
-              MY CART
-            </div>
-            <div className="cart-storedData">
-              <div className="cart-storedData-left">
-                {cartData.map((card, index) => {
-                  return (
-                    <CartCards
-                      card={card}
-                      key={index}
-                      purchase={purchase}
-                      setPurchase={setPurchase}
-                      cartData={cartData}
-                      setCartData={setCartData}
-                    />
-                  );
-                })}
-              </div>
-              <div className="cart-storedData-right">
-                <div className="cart-amoutBox">
-                  <Heading>
-                    {purchase.quantity}{" "}
-                    {purchase.quantity > 1 ? " ITEMS" : " ITEM"}
-                  </Heading>
-                  <div className="cart-amountBox-offerBox">
-                    <div className="cart-amountBox-offerBox-circle1"></div>
-                    <div className="cart-amountBox-offerBox-text">
-                      <p>Apply Offers & Deals</p>
-                    </div>
-                    <button
-                      className="cart-amountBox-button"
-                      onClick={() => navigate("/offers")}
-                    >
-                      View All
-                    </button>
-                    <div className="cart-amountBox-offerBox-circle2"></div>
+        {cartItems.length > 0 ? (
+          <div>
+            {cartItems.map((item, index) => (
+              <div className="cart-item" key={index}>
+                <img src={item.img} alt={item.name} />
+                <div className="item-details">
+                  <h2>{item.name}</h2>
+                  <div className="quantity-controls">
+                    <button onClick={() => handleQuantityChange(index, -1)}>-</button>
+                    <span>{item.quantity}</span>
+                    <button onClick={() => handleQuantityChange(index, 1)}>+</button>
                   </div>
-                  <div className="cart-amountBox-total">
-                    <p>Subtotal</p>
-                    <p>₹ {purchase.subTotal}</p>
-                  </div>
-                  <div className="cart-amountBox-gst">
-                    <p>GST</p>
-                    <p>₹ {gst}</p>
-                  </div>
-                  <button
-                    className="cart-amountBox-hopeBox-checkoutBtn"
-                    onClick={() => navigate("/checkout")}
-                  >
-                    <p>Checkout </p> <p> ₹ {purchase.totalAmount}</p>
-                  </button>
+                  <p>₹{(parseFloat(item.price) * item.quantity).toFixed(2)}</p>
+                  <button onClick={() => handleRemoveItem(index)}>Remove</button>
                 </div>
               </div>
+            ))}
+            <div className="cart-total">
+              <h2>Total: ₹{totalPrice.toFixed(2)}</h2>
+              <Link to='/'><button>Checkout</button></Link>
             </div>
           </div>
-        </div>
-      )}
-      <Footer/>
+        ) : (
+          <div className="emptycart">
+            <div className="emptycart_text">
+              <h1>Your cart is empty</h1>
+              <Link to='/menu'><button>start order</button></Link>
+            </div>
+            <img src={empty_cart_logo} alt="" />
+          </div>
+
+        )}
+      </main>
+      <Footer />
     </div>
   );
-};
+}
 
 export default Cart;

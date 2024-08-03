@@ -1,23 +1,26 @@
+/* Global Styles */
 
 .slider-container {
   width: 100%;
   margin: auto;
-  padding:0 20px 20px 20px;
+  padding: 20px;
   background-color: #202124;
   color: white;
+  box-sizing: border-box; /* add this to include padding in width calculation */
 }
 
 .slick-prev:before,
 .slick-next:before {
   color: white;
 }
-.heading{
-  color:#e4002b;
+
+.heading {
+  color: #e4002b;
 }
+
 .bannerTop {
   background-color: #202124;
 }
-
 
 .slide {
   text-align: center;
@@ -28,6 +31,7 @@
 .slide img {
   width: 100%;
   border-radius: 8px;
+  height: auto; /* add this to maintain aspect ratio */
 }
 
 .slide p {
@@ -38,19 +42,21 @@
 
 .slideBottom {
   background-color: white;
-  height: 120px;
+  padding: 20px; /* use padding instead of fixed height */
 }
-.buttons{
+
+.buttons {
   display: flex;
-  justify-content:space-between;
-  padding:10px;
+  justify-content: space-between;
+  padding: 10px;
   align-items: center;
 }
 
 .card_link {
   color: #202124;
 }
-.card_link:hover{
+
+.card_link:hover {
   text-decoration: underline;
 }
 
@@ -66,52 +72,76 @@
   background-color: #202124;
   color: white;
 }
-@media (max-width: 870px) {
+
+/* Responsive Styles */
+
+@media (max-width: 1200px) {
+  .slider-container {
+    padding: 15px;
+  }
+}
+
+@media (max-width: 992px) {
   .slider-container {
     padding: 10px;
   }
   .slide p {
     font-size: 14px;
   }
-  .slide img {
-    height: auto;
-  }
-  .slideBottom {
-    height: 130px;
-    padding: none;
-  }
-  .card_link
-  .card_btn {
-    font-size: 12px;
-    padding: 6px 12px;
-    height:15px;
-  }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
   .slider-container {
     padding: 5px;
   }
   .slide p {
     font-size: 12px;
   }
+  .slideBottom {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .slider-container {
+    padding: 0;
+  }
   .slide {
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-  .slideBottom{
-    height:100px;
+  .slideBottom {
+    padding: 5px;
   }
-  .buttons{
-    height: 60px;
-    width:30px;
-    padding: none;
+  .buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  .card_link,
+  .card_btn {
+    font-size: 10px;
+    padding: 5px;
+  }
+}
+
+@media (max-width: 320px) {
+  .slider-container {
+    padding: 0;
+  }
+  .slide p {
+    font-size: 10px;
+  }
+  .slideBottom {
+    padding: 0;
+  }
+  .buttons {
+    flex-direction: column;
+    align-items: center;
   }
   .card_link,
   .card_btn {
     font-size: 8px;
-    height:15px;
-    width:10px;
+    padding: 3px;
   }
 }
