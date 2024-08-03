@@ -6,7 +6,17 @@
   padding: 20px;
   background-color: #202124;
   color: white;
-  box-sizing: border-box; /* add this to include padding in width calculation */
+  box-sizing: border-box;
+}
+.slider-main{
+  width:100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.slider{
+  width: 90%;
+  margin-left:5%;
 }
 
 .slick-prev:before,

@@ -51,61 +51,64 @@ const SliderComponent = () => {
         <img src={bannerTop} alt="" />
       </div>
       <h2> Exclusive Offers For You </h2>
-      <Slider {...settings}>
-        <div className="slide">
-          <img src={logo} alt="Offer 1" />
-          <div className="slideBottom">
-            <p>Free 1pc Chicken</p>
-            <div className='buttons'>
-              <Link to="/deals" className='card_link'>View Details</Link>
-              <Link to="/deals" className="card_btn btn btn-primary">Apply Offer</Link>
+      <div className="slider_main">
+        <Slider {...settings} className='slider'>
+          <div className="slide">
+            <img src={logo} alt="Offer 1" />
+            <div className="slideBottom">
+              <p>Free 1pc Chicken</p>
+              <div className='buttons'>
+                <Link to="/deals" className='card_link'>View Details</Link>
+                <Link to="/deals" className="card_btn btn btn-primary">Apply Offer</Link>
+              </div>
             </div>
           </div>
-        </div>
-        <div className="slide">
-          <img src={logo5} alt="Offer 1" />
-          <div className="slideBottom">
-            <p>Free Zinger worth ₹209</p>
-            <div className='buttons'>
-              <Link to="/deals" className='card_link'>View Details</Link>
-              <Link to="/deals" className="card_btn btn btn-primary">Apply Offer</Link>
+          <div className="slide">
+            <img src={logo5} alt="Offer 1" />
+            <div className="slideBottom">
+              <p>Free Zinger worth ₹209</p>
+              <div className='buttons'>
+                <Link to="/deals" className='card_link'>View Details</Link>
+                <Link to="/deals" className="card_btn btn btn-primary">Apply Offer</Link>
+              </div>
             </div>
           </div>
-        </div>
-        <div className="slide">
-          <img src={logo4} alt="Offer 2" />
-          <div className="slideBottom">
-            <p>3PC Hot & Crispy @ ₹99</p>
-            <div className='buttons'>
-              <Link to="/deals" className='card_link'>View Details</Link>
-              <Link to="/deals" className="card_btn btn btn-primary">Apply Offer</Link>
+          <div className="slide">
+            <img src={logo4} alt="Offer 2" />
+            <div className="slideBottom">
+              <p>3PC Hot & Crispy @ ₹99</p>
+              <div className='buttons'>
+                <Link to="/deals" className='card_link'>View Details</Link>
+                <Link to="/deals" className="card_btn btn btn-primary">Apply Offer</Link>
+              </div>
             </div>
           </div>
-        </div>
-        <div className="slide">
-          <img src={logo3} alt="Offer 3" />
-          <div className="slideBottom">
-            <p>Upto ₹100/- OFF</p>
-            
-            <div className='buttons'>
-              <Link to="/deals" className='card_link'>View Details</Link>
-              <Link to="/deals" className="card_btn btn btn-primary">Apply Offer</Link>
+          <div className="slide">
+            <img src={logo3} alt="Offer 3" />
+            <div className="slideBottom">
+              <p>Upto ₹100/- OFF</p>
+              
+              <div className='buttons'>
+                <Link to="/deals" className='card_link'>View Details</Link>
+                <Link to="/deals" className="card_btn btn btn-primary">Apply Offer</Link>
+              </div>
             </div>
-          </div>
 
-        </div>
-        <div className="slide">
-          <img src={logo2} alt="Offer 4" />
-          <div className="slideBottom">
-            <p>Flat ₹75/- OFF</p>
-            <div className='buttons'>
-              <Link to="/deals" className='card_link'>View Details</Link>
-              <Link to="/deals" className="card_btn btn btn-primary">Apply Offer</Link>
-            </div>
           </div>
+          <div className="slide">
+            <img src={logo2} alt="Offer 4" />
+            <div className="slideBottom">
+              <p>Flat ₹75/- OFF</p>
+              <div className='buttons'>
+                <Link to="/deals" className='card_link'>View Details</Link>
+                <Link to="/deals" className="card_btn btn btn-primary">Apply Offer</Link>
+              </div>
+            </div>
 
-        </div>
-      </Slider>
+          </div>
+        </Slider>
+      </div>
+      
     </div>
   );
 }
